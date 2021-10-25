@@ -2,7 +2,7 @@
 session_start();
 
 if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
-
+//Console.log
 ?>
 
 <!DOCTYPE html>
